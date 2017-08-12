@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+.foodLi {
+    color: green;
+}
+
+.header1GreenYellos {
+    color: greenyellow
+}
+
+#mountainImage {
+    float: right;
+}
+
+#imageHeader1 {
+    text-align: center;
+    color: aquamarine;
+    font-family: "Apple SD Gothic Neo", serif;
+    font-size: x-large;
+}
