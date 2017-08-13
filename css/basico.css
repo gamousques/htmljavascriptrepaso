@@ -21,3 +21,21 @@ h1 {
     font-family: "Apple SD Gothic Neo", serif;
     font-size: x-large;
 }
+
+.header2SizeColor {
+    font-size: xx-large;
+    background-color: black;
+    color: darkcyan;
+    text-align: end;
+}
+.divDosVerde {
+    background-color: firebrick;
+}
+
+ul li {
+    color: green;
+}
+#rgbid {
+    color: rgb(10,22,44);
+    font-size: xx-large;
+}
