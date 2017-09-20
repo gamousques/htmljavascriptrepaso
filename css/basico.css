@@ -32,9 +32,21 @@ h1 {
     background-color: firebrick;
 }
 
+#di1 {
+    color: #32b216;
+    border: double;
+}
+
+#di2 {
+    color: #b3d4fc;
+    font-size: x-large;
+    border: dashed;
+}
+
 ul li {
     color: green;
 }
+
 #rgbid {
     color: rgb(10,22,44);
     font-size: xx-large;
