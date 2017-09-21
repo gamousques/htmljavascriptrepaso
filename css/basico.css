@@ -51,3 +51,11 @@ ul li {
     color: rgb(10,22,44);
     font-size: xx-large;
 }
+
+.blueback {
+    background-color: lightblue;
+}
+
+.yellowback {
+    background-color: yellow;
+}
