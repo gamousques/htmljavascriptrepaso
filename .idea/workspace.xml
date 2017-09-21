@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="26259142-07cc-4e14-87a7-4bc567353a4f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/basico.css" afterPath="$PROJECT_DIR$/css/basico.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/eventoclick.js" afterPath="$PROJECT_DIR$/js/eventoclick.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/llamadaevento.html" afterPath="$PROJECT_DIR$/llamadaevento.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -203,7 +200,7 @@
       <updated>1502300698963</updated>
       <workItem from="1502300702391" duration="10952000" />
       <workItem from="1505928399901" duration="3789000" />
-      <workItem from="1505933511577" duration="1449000" />
+      <workItem from="1505933511577" duration="1495000" />
     </task>
     <task id="LOCAL-00001" summary="probando">
       <created>1502558759581</created>
@@ -247,11 +244,18 @@
       <option name="project" value="LOCAL" />
       <updated>1505933316510</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="modificados usando JS">
+      <created>1506015197624</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1506015197624</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18058000" />
+    <option name="totallyTimeSpent" value="18104000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="44" y="23" width="1396" height="872" extended-state="0" />
@@ -292,7 +296,8 @@
     <MESSAGE value="incuye css basicos como clases e Ids" />
     <MESSAGE value="llamada a js basico" />
     <MESSAGE value="llamadas a js basicas" />
-    <option name="LAST_COMMIT_MESSAGE" value="llamadas a js basicas" />
+    <MESSAGE value="modificados usando JS" />
+    <option name="LAST_COMMIT_MESSAGE" value="modificados usando JS" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
